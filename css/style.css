@@ -51,12 +51,14 @@ body{
     text-decoration: none;
     font-size: 15px;
     color: #ffffff;
+    border: none;
 }
 .button button{
     background-color: #ac68e4;
     border-radius: 20px;
     width: 120px;
     height: 40px;
+    border: none;
     
 }
 @media screen and (max-width:574px){
